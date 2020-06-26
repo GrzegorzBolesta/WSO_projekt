@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1593178557 source:/home/bolek/Pulpit/Projekt/main.c
+	<unistd.h>
+	<fcntl.h>
+	<stdio.h>
+	<stdlib.h>
+	<linux/input.h>
+
